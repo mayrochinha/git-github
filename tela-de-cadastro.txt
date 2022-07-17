@@ -1,5 +1,5 @@
 Nome:
 Endereço:
 Telefone:
-Gêero:
+Gênero:
 Data de Nascimento:
